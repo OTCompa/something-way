@@ -1,0 +1,12 @@
+{
+    "Author": "NAUR",
+    "Name": "Somethingway",
+    "Punchline": "Crowdsourced PF.",
+    "Description": "Upload the current state of PF to NAUR.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "party",
+        "finder", 
+        "somethingway"
+    ]
+}
