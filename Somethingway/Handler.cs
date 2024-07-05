@@ -68,7 +68,7 @@ namespace Somethingway
             cooldown.Restart();
         }
 
-        public async void UploadJson(string payload)
+        private async void UploadJson(string payload)
         {
             using (var client = new HttpClient())
             {
